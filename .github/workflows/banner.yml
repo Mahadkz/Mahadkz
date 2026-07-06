@@ -1,0 +1,40 @@
+name: Refresh banner
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily, 06:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [generate.py, .github/workflows/banner.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: banner
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate banner.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate.py
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet banner.svg; then
+            git add banner.svg
+            git commit -m "chore: refresh stats banner"
+            git push
+          else
+            echo "No change in banner.svg"
+          fi
