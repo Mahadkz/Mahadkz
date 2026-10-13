@@ -23,106 +23,119 @@
   <line x1="0" y1="48" x2="820" y2="48" stroke="#30363d"/>
 
   <g transform="translate(34,78)">
-    <clipPath id="clip70223"><rect x="-3" y="-14" width="157.20000000000002" height="22">
+    <clipPath id="clip17793"><rect x="-3" y="-14" width="157.20000000000002" height="22">
       <animate attributeName="width" values="0;157.20000000000002" dur="0.5s" begin="0.0s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip70223)"><tspan class="prompt">Mahadkz </tspan><tspan class="muted">~ </tspan><tspan class="green">$ </tspan><tspan class="fg">whoami</tspan></text>
+    <text clip-path="url(#clip17793)"><tspan class="prompt">Mahadkz </tspan><tspan class="muted">~ </tspan><tspan class="green">$ </tspan><tspan class="fg">whoami</tspan></text>
   </g>
 
   <g transform="translate(34,104)">
-    <clipPath id="clip59271"><rect x="-3" y="-14" width="224.4" height="22">
+    <clipPath id="clip97259"><rect x="-3" y="-14" width="224.4" height="22">
       <animate attributeName="width" values="0;224.4" dur="0.5s" begin="0.5s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip59271)"><tspan class="green">Syed Mahad Ul Hassan Kazmi</tspan></text>
+    <text clip-path="url(#clip97259)"><tspan class="green">Syed Mahad Ul Hassan Kazmi</tspan></text>
   </g>
 
   <g transform="translate(34,140)">
-    <clipPath id="clip52973"><rect x="-3" y="-14" width="241.20000000000002" height="22">
+    <clipPath id="clip1661"><rect x="-3" y="-14" width="241.20000000000002" height="22">
       <animate attributeName="width" values="0;241.20000000000002" dur="0.5s" begin="0.9s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip52973)"><tspan class="prompt">Mahadkz </tspan><tspan class="muted">~ </tspan><tspan class="green">$ </tspan><tspan class="fg">cat profile.json</tspan></text>
+    <text clip-path="url(#clip1661)"><tspan class="prompt">Mahadkz </tspan><tspan class="muted">~ </tspan><tspan class="green">$ </tspan><tspan class="fg">cat profile.json</tspan></text>
   </g>
 
   <g transform="translate(34,170)">
-    <clipPath id="clip6823"><rect x="-3" y="-14" width="266.40000000000003" height="22">
+    <clipPath id="clip48643"><rect x="-3" y="-14" width="266.40000000000003" height="22">
       <animate attributeName="width" values="0;266.40000000000003" dur="0.35s" begin="1.4s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip6823)"><tspan class="muted">  repositories   </tspan><tspan class="value">19</tspan><tspan class="dim">   19 public</tspan></text>
+    <text clip-path="url(#clip48643)"><tspan class="muted">  repositories   </tspan><tspan class="value">20</tspan><tspan class="dim">   20 public</tspan></text>
   </g>
 
   <g transform="translate(34,194)">
-    <clipPath id="clip40028"><rect x="-3" y="-14" width="157.20000000000002" height="22">
+    <clipPath id="clip3004"><rect x="-3" y="-14" width="157.20000000000002" height="22">
       <animate attributeName="width" values="0;157.20000000000002" dur="0.35s" begin="1.6199999999999999s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip40028)"><tspan class="muted">  followers      </tspan><tspan class="value">2</tspan></text>
+    <text clip-path="url(#clip3004)"><tspan class="muted">  followers      </tspan><tspan class="value">2</tspan></text>
   </g>
 
   <g transform="translate(34,218)">
-    <clipPath id="clip77209"><rect x="-3" y="-14" width="333.6" height="22">
+    <clipPath id="clip51251"><rect x="-3" y="-14" width="333.6" height="22">
       <animate attributeName="width" values="0;333.6" dur="0.35s" begin="1.8399999999999999s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip77209)"><tspan class="muted">  primary lang   </tspan><tspan class="value">Python</tspan><tspan class="dim">   by repo count</tspan></text>
+    <text clip-path="url(#clip51251)"><tspan class="muted">  primary lang   </tspan><tspan class="value">Python</tspan><tspan class="dim">   by repo count</tspan></text>
   </g>
 
   <g transform="translate(34,258)">
-    <clipPath id="clip23619"><rect x="-3" y="-14" width="216.0" height="22">
+    <clipPath id="clip88334"><rect x="-3" y="-14" width="216.0" height="22">
       <animate attributeName="width" values="0;216.0" dur="0.5s" begin="2.5s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip23619)"><tspan class="prompt">Mahadkz </tspan><tspan class="muted">~ </tspan><tspan class="green">$ </tspan><tspan class="fg">langs --top 5</tspan></text>
+    <text clip-path="url(#clip88334)"><tspan class="prompt">Mahadkz </tspan><tspan class="muted">~ </tspan><tspan class="green">$ </tspan><tspan class="fg">langs --top 5</tspan></text>
   </g>
 
   <g transform="translate(36,294)">
-    <clipPath id="clip10584"><rect x="-3" y="-14" width="106.80000000000001" height="22">
+    <clipPath id="clip43047"><rect x="-3" y="-14" width="106.80000000000001" height="22">
       <animate attributeName="width" values="0;106.80000000000001" dur="0.3s" begin="3.0s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip10584)"><tspan class="fg">Python      </tspan></text>
+    <text clip-path="url(#clip43047)"><tspan class="fg">Python      </tspan></text>
   </g>
-<rect x="152" y="287" width="300" height="7" rx="3.5" fill="#21262d"/><rect x="152" y="287" width="150.0" height="7" rx="3.5" fill="#3178c6">
-      <animate attributeName="width" values="0;150.0" dur="0.7s" begin="3.05s"
+<rect x="152" y="287" width="300" height="7" rx="3.5" fill="#21262d"/><rect x="152" y="287" width="120.0" height="7" rx="3.5" fill="#3178c6">
+      <animate attributeName="width" values="0;120.0" dur="0.7s" begin="3.05s"
                fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
     </rect>
-<text class="dim small" x="464" y="294" opacity="0">50%<animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.4s" fill="freeze"/></text>
+<text class="dim small" x="464" y="294" opacity="0">40%<animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.4s" fill="freeze"/></text>
 
   <g transform="translate(36,317)">
-    <clipPath id="clip94622"><rect x="-3" y="-14" width="106.80000000000001" height="22">
+    <clipPath id="clip32153"><rect x="-3" y="-14" width="106.80000000000001" height="22">
       <animate attributeName="width" values="0;106.80000000000001" dur="0.3s" begin="3.2800000000000002s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip94622)"><tspan class="fg">CSS         </tspan></text>
+    <text clip-path="url(#clip32153)"><tspan class="fg">CSS         </tspan></text>
   </g>
-<rect x="152" y="310" width="300" height="7" rx="3.5" fill="#21262d"/><rect x="152" y="310" width="75.0" height="7" rx="3.5" fill="#f1e05a">
-      <animate attributeName="width" values="0;75.0" dur="0.7s" begin="3.33s"
+<rect x="152" y="310" width="300" height="7" rx="3.5" fill="#21262d"/><rect x="152" y="310" width="60.0" height="7" rx="3.5" fill="#f1e05a">
+      <animate attributeName="width" values="0;60.0" dur="0.7s" begin="3.33s"
                fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
     </rect>
-<text class="dim small" x="464" y="317" opacity="0">25%<animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.68s" fill="freeze"/></text>
+<text class="dim small" x="464" y="317" opacity="0">20%<animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.68s" fill="freeze"/></text>
 
   <g transform="translate(36,340)">
-    <clipPath id="clip96336"><rect x="-3" y="-14" width="106.80000000000001" height="22">
+    <clipPath id="clip31587"><rect x="-3" y="-14" width="106.80000000000001" height="22">
       <animate attributeName="width" values="0;106.80000000000001" dur="0.3s" begin="3.56s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip96336)"><tspan class="fg">HTML        </tspan></text>
+    <text clip-path="url(#clip31587)"><tspan class="fg">HTML        </tspan></text>
   </g>
-<rect x="152" y="333" width="300" height="7" rx="3.5" fill="#21262d"/><rect x="152" y="333" width="75.0" height="7" rx="3.5" fill="#e34c26">
-      <animate attributeName="width" values="0;75.0" dur="0.7s" begin="3.61s"
+<rect x="152" y="333" width="300" height="7" rx="3.5" fill="#21262d"/><rect x="152" y="333" width="60.0" height="7" rx="3.5" fill="#e34c26">
+      <animate attributeName="width" values="0;60.0" dur="0.7s" begin="3.61s"
                fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
     </rect>
-<text class="dim small" x="464" y="340" opacity="0">25%<animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.96s" fill="freeze"/></text>
+<text class="dim small" x="464" y="340" opacity="0">20%<animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.96s" fill="freeze"/></text>
 
-  <g transform="translate(34,379)">
-    <clipPath id="clip93324"><rect x="-3" y="-14" width="106.80000000000001" height="22">
+  <g transform="translate(36,363)">
+    <clipPath id="clip28148"><rect x="-3" y="-14" width="106.80000000000001" height="22">
+      <animate attributeName="width" values="0;106.80000000000001" dur="0.3s" begin="3.84s"
+               fill="freeze" calcMode="linear"/>
+    </rect></clipPath>
+    <text clip-path="url(#clip28148)"><tspan class="fg">Rust        </tspan></text>
+  </g>
+<rect x="152" y="356" width="300" height="7" rx="3.5" fill="#21262d"/><rect x="152" y="356" width="60.0" height="7" rx="3.5" fill="#563d7c">
+      <animate attributeName="width" values="0;60.0" dur="0.7s" begin="3.8899999999999997s"
+               fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
+    </rect>
+<text class="dim small" x="464" y="363" opacity="0">20%<animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.24s" fill="freeze"/></text>
+
+  <g transform="translate(34,402)">
+    <clipPath id="clip62258"><rect x="-3" y="-14" width="106.80000000000001" height="22">
       <animate attributeName="width" values="0;106.80000000000001" dur="0.2s" begin="4.5s"
                fill="freeze" calcMode="linear"/>
     </rect></clipPath>
-    <text clip-path="url(#clip93324)"><tspan class="prompt">Mahadkz </tspan><tspan class="muted">~ </tspan><tspan class="green">$ </tspan></text>
+    <text clip-path="url(#clip62258)"><tspan class="prompt">Mahadkz </tspan><tspan class="muted">~ </tspan><tspan class="green">$ </tspan></text>
   </g>
-<rect class="cursor" x="135" y="367" width="9" height="16" fill="#58a6ff"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" begin="4.7s" repeatCount="indefinite" calcMode="discrete"/></rect>
+<rect class="cursor" x="135" y="390" width="9" height="16" fill="#58a6ff"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" begin="4.7s" repeatCount="indefinite" calcMode="discrete"/></rect>
 </svg>
